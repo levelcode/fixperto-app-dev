@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>328764994439-kfpqvcuq0acafdru1ou5hq01ggkit43n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.328764994439-kfpqvcuq0acafdru1ou5hq01ggkit43n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsjlolD-hc_9T63_I8zu5vZlS3C2hz49k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>328764994439</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shiftactive.fixperto</string>
+	<key>PROJECT_ID</key>
+	<string>fixperto-74724</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fixperto-74724.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:328764994439:ios:3fa3f38394e1b3f9a05922</string>
+	<key>DATABASE_URL</key>
+	<string>https://fixperto-74724.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+[0127/123319.730:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0322/142333.223:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0329/214624.032:ERROR:process_reader_win.cc(182)] ResumeThread: El parámetro no es correcto. (0x57)
+[0329/214624.085:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0329/214624.085:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0329/214624.085:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0329/214624.085:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0329/214624.085:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0329/214624.085:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0329/214624.086:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0329/214624.086:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0329/214624.086:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0329/214624.086:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0329/214624.086:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0329/214624.086:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0329/214624.086:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0329/214624.086:ERROR:exception_snapshot_win.cc(98)] thread ID 7076 not found in process
+[0410/220844.049:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0410/231336.905:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0412/140650.613:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0505/142541.929:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0

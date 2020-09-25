@@ -1,0 +1,52 @@
+{
+	"expo": {
+		"name": "fixperto",
+		"slug": "fixperto",
+		"owner": "alainchacon",
+		"privacy": "public",
+		"sdkVersion": "36.0.0",
+		"platforms": [
+			"ios",
+			"android",
+			"web"
+		],
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "./assets/icono_fixperto.png",
+		"splash": {
+			"image": "./assets/inicio.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#273861"
+		},
+		"updates": {
+			"fallbackToCacheTimeout": 0
+		},
+		"assetBundlePatterns": [
+			"**/*"
+		],
+		"ios": {
+			"supportsTablet": true,
+			"bundleIdentifier": "com.shiftactive.fixperto",
+			"buildNumber": "1.5.4",
+			"usesIcloudStorage": true,
+			"icon": "./assets/__icon_apple.png",
+			"infoPlist": {
+				"NSCameraUsageDescription": "Esta app hace uso de la camara para tomar foto de la persona y adjuntarla a su perfil, ya que una foto de la persona genera mayor confianza entre tus clientes.",
+			    "NSPhotoLibraryUsageDescription": "Este app hace uso de sus fotos para adjuntarla a su perfil, ya que una foto de la persona genera mayor confianza entre tus clientes."
+			}
+		},
+		"android": {
+			"package": "com.shiftactive.fixperto",
+			"config": {
+				"googleMaps": {
+					"apiKey": "AIzaSyAo00I_MEPgWgVSoMO4AgZ31dmnp-J5Vck"
+				}
+			},
+			"versionCode": 11
+		},
+		"description": "",
+		"notification": {
+			"icon": "./assets/icono_fixperto.png"
+		}
+	}
+}

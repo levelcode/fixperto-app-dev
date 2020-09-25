@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "328764994439",
+    "firebase_url": "https://fixperto-74724.firebaseio.com",
+    "project_id": "fixperto-74724",
+    "storage_bucket": "fixperto-74724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328764994439:android:7a47a21d15aff3c0a05922",
+        "android_client_info": {
+          "package_name": "com.shiftactive.fixperto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328764994439-se1beq3bfq1m91srrqd499n4bmpu94is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChHoAocsRno24MDA7IXsxIDs4NokoeN3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328764994439-se1beq3bfq1m91srrqd499n4bmpu94is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
